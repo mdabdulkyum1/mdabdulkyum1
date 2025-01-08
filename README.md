@@ -1,4 +1,10 @@
-<h2 align="left">Hi 👋! My name is Abdul Kyum and I'm a  Jr. Font End Developer</h2>
+<div align="center">
+  <img height="200" src="https://i.ibb.co.com/bg1m0W9/github-Bannerf.jpg"  />
+</div>
+
+###
+
+<h2 align="left">Hi 👋! My name is Abdul Kyum and I'm a  Jr. Font End Developer from Bangladesh</h2>
 
 ###
 
@@ -58,9 +64,5 @@
 <img src="https://raw.githubusercontent.com/mdabdulkyum1/mdabdulkyum1/output/snake.svg" alt="Snake animation" />
 
 ###
-
-
-
-
 
 
