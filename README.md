@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" width="1280" src="https://i.ibb.co.com/wFhFHfkY/kyummdabdul-gmail-com.png"  />
+  <img height="200"  src="https://i.ibb.co.com/FLBCVHq5/kyummdabdul-github-banner.png"  />
 </div>
 
 ###
