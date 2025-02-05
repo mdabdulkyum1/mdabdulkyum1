@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200"  src="https://i.ibb.co.com/FLBCVHq5/kyummdabdul-github-banner.png"  />
+  <img width="100%" height="400" src="git-hub-banner.png"  />
 </div>
 
 ###
