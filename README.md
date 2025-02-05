@@ -6,11 +6,6 @@
 
 <h2 align="left">Hi 👋! My name is Abdul Kyum and I'm a  Jr. Font End Developer from Bangladesh</h2>
 
-###
-
-<img align="right" height="150" src="https://i.ibb.co.com/GVJVBJM/Profile1.jpg"  />
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
