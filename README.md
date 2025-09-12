@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="left">Hi 👋! My name is Abdul Kyum and I'm a  Jr. Font End Developer from Bangladesh</h2>
+<h2 align="left">Hi 👋! My name is Abdul Kyum and I'm a  Fullstack Developer from Bangladesh</h2>
 
 
 <div align="left">
