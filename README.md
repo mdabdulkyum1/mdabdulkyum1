@@ -6,6 +6,20 @@
 
 <h2 align="left">Hi 👋! My name is Abdul Kyum and I'm a  Fullstack Developer from Bangladesh</h2>
 
+## 👨‍💻 About Me  
+
+I'm a **Full Stack Developer** from **Bangladesh**, passionate about building modern, responsive, and high-performance web applications. I specialize in developing **scalable front-end interfaces** with **React**, **Tailwind CSS**, and **TypeScript**, while crafting **robust back-end solutions** using **Node.js**, **Express**, and **MongoDB**.  
+
+I enjoy turning complex ideas into elegant, user-friendly solutions that create real impact. My focus lies in **clean code**, **performance optimization**, and **seamless user experiences**.  
+
+Beyond coding, I love exploring new technologies, contributing to open-source projects, and continuously improving my development workflow with tools like **Git**, **Postman**, **Docker**, and **AWS**.  
+
+✨ **Current Focus:**  
+- Building full-stack applications with **React + Node.js**  
+- Exploring **Next.js** and **TypeScript best practices**  
+- Strengthening my skills in **DevOps** and **cloud deployment**  
+
+---
 
 ## Tech Stack
 
