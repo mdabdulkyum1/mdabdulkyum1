@@ -8,15 +8,15 @@
 
 ## 👨‍💻 About Me  
 
-I'm a **Full Stack Developer** from **Bangladesh**, passionate about building modern, responsive, and high-performance web applications. I specialize in developing **scalable front-end interfaces** with **React**, **Tailwind CSS**, and **TypeScript**, while crafting **robust back-end solutions** using **Node.js**, **Express**, and **MongoDB**.  
+I'm a Full Stack Developer from Bangladesh, dedicated to crafting AI-driven, scalable, and user-centric web applications. I focus on delivering high-performance digital solutions by combining strong problem-solving skills with modern development practices.
 
-I enjoy turning complex ideas into elegant, user-friendly solutions that create real impact. My focus lies in **clean code**, **performance optimization**, and **seamless user experiences**.  
+I’m passionate about transforming ideas into intelligent, intuitive, and reliable products — from sleek, responsive front-end experiences to robust, cloud-ready back-end systems.
 
-Beyond coding, I love exploring new technologies, contributing to open-source projects, and continuously improving my development workflow with tools like **Git**, **Postman**, **Docker**, and **AWS**.  
+With a continuous learning mindset, I explore emerging technologies like AI integrations, automation, and DevOps workflows to build smarter and more efficient software.
 
 ✨ **Current Focus:**  
-- Building full-stack applications with **React + Node.js**  
-- Exploring **Next.js** and **TypeScript best practices**  
+- Building full-stack applications with **Next.js + Node.js**  
+- Exploring **Nest.js** and **TypeScript best practices**  
 - Strengthening my skills in **DevOps** and **cloud deployment**  
 
 ---
